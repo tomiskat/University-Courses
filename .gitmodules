@@ -13,3 +13,6 @@
 [submodule "NPRG041-CPP-Task1"]
 	path = NPRG041-CPP-Task1
 	url = git@github.com:tomiskat/NPRG041-CPP-Task1.git
+[submodule "NPRG041-CPP-Task2"]
+	path = NPRG041-CPP-Task2
+	url = git@github.com:tomiskat/NPRG041-CPP-Task2.git
