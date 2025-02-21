@@ -10,3 +10,6 @@
 [submodule "NPFL138-Deeep-Learning"]
 	path = NPFL138-Deeep-Learning
 	url = git@github.com:tomiskat/NPFL138-Deeep-Learning.git
+[submodule "NPRG041-CPP-Task1"]
+	path = NPRG041-CPP-Task1
+	url = git@github.com:tomiskat/NPRG041-CPP-Task1.git
