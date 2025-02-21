@@ -4,3 +4,9 @@
 [submodule "NSWI098-Compilers"]
 	path = NSWI098-Compilers
 	url = git@github.com:tomiskat/NSWI098-Compilers.git
+[submodule "NPFL129-Machine-Learning"]
+	path = NPFL129-Machine-Learning
+	url = git@github.com:tomiskat/NPFL129-Machine-Learning.git
+[submodule "NPFL138-Deeep-Learning"]
+	path = NPFL138-Deeep-Learning
+	url = git@github.com:tomiskat/NPFL138-Deeep-Learning.git
