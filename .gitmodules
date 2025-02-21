@@ -1,0 +1,6 @@
+[submodule "NPRG054-High-Performance-Software"]
+	path = NPRG054-High-Performance-Software
+	url = git@github.com:tomiskat/NPRG054-High-Performance-Software.git
+[submodule "NSWI098-Compilers"]
+	path = NSWI098-Compilers
+	url = git@github.com:tomiskat/NSWI098-Compilers.git
