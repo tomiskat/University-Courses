@@ -16,3 +16,12 @@
 [submodule "NPRG041-CPP-Task2"]
 	path = NPRG041-CPP-Task2
 	url = git@github.com:tomiskat/NPRG041-CPP-Task2.git
+[submodule "NPRG051-Advanced-CPP-Task1"]
+	path = NPRG051-Advanced-CPP-Task1
+	url = git@github.com:tomiskat/NPRG051-Advanced-CPP-Task1.git
+[submodule "NPRG051-Advanced-CPP-Task2"]
+	path = NPRG051-Advanced-CPP-Task2
+	url = git@github.com:tomiskat/NPRG051-Advanced-CPP-Task2.git
+[submodule "NPRG051-Advanced-CPP-Task3"]
+	path = NPRG051-Advanced-CPP-Task3
+	url = git@github.com:tomiskat/NPRG051-Advanced-CPP-Task3.git
