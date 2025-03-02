@@ -25,3 +25,9 @@
 [submodule "NPRG051-Advanced-CPP-Task3"]
 	path = NPRG051-Advanced-CPP-Task3
 	url = git@github.com:tomiskat/NPRG051-Advanced-CPP-Task3.git
+[submodule "NTIN066-Data-Structures"]
+	path = NTIN066-Data-Structures
+	url = git@github.com:tomiskat/NTIN066-Data-Structures.git
+[submodule "NSWI130-Software-Architecture"]
+	path = NSWI130-Software-Architecture
+	url = git@github.com:tomiskat/NSWI130-Software-Architecture.git
